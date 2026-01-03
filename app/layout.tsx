@@ -12,7 +12,6 @@ export const metadata: Metadata = {
   title: "Bharat Darji - .NET Developer Portfolio",
   description:
     ".NET Developer with over 3 years of experience in developing Web Applications, APIs, and Dashboard Solutions. Specializing in ASP.NET MVC, WebAPI, and modern JavaScript frameworks.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
